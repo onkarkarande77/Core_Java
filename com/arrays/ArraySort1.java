@@ -19,7 +19,7 @@ public class ArraySort1 {
 		}
 		
 		for(int num:ar) {
-			System.out.println(num);
+			 System.out.println(num);
 		}
 	}
 
