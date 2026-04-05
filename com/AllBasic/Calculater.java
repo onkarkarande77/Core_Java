@@ -14,7 +14,7 @@ public class Calculater {
         //here we perfrom opr
 		System.out.println("Enter the operator(+,-,*./)");
 		char op=sc.next().charAt(0);
-	   int c=0;
+	    int c=0;
 	    switch(op) {case '+':c=a+b;
 	                         System.out.println("Addition is "+c);
 	                         break;
