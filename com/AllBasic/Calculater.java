@@ -28,7 +28,7 @@ public class Calculater {
 	                         System.out.println("division is "+c);
 	                         break;
 	                default:System.out.println("enter the correct operator.");
-	                        break;
+	                         break;
 	    
 	    
 	    } 
