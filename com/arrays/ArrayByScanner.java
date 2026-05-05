@@ -11,8 +11,6 @@ public class ArrayByScanner {
 		int n=sc.nextInt();
 		
 		int ar[]=new int[n];
-		System.out.println("Enter the array elemnts");
-		System.out.println();
 		
 		for(int i=0;i<n;i++) {
 			ar[i]=sc.nextInt();
