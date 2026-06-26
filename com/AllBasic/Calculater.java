@@ -10,7 +10,7 @@ public class Calculater {
 		System.out.println("Enter the first no ");
 		int a=sc.nextInt();
 		System.out.println("Enter the second no ");
-		int b=sc.nextInt();
+		int b=sc.nextInt(); 
         
 		System.out.println("Enter the operator(+,-,*./)");
 		char op=sc.next().charAt(0);
