@@ -10,7 +10,7 @@ public class ArraySort1 {
 		for(int i=0;i<ar.length;i++) {
 			
 		  for(int j=0;j<ar.length;j++) {
-			  if(ar[i]<ar[j]) {
+			  if(ar[i]<ar[j]) { 
 				  int temp=ar[i];
 				      ar[i]=ar[j];
 				      ar[j]=temp;
