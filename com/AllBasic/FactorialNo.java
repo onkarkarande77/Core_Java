@@ -8,7 +8,7 @@ public class FactorialNo {
 		// TODO Auto-generated method stub
          Scanner sc=new Scanner(System.in);
          System.out.println("Enter the No ");
-         int num=sc.nextInt();
+         int num=sc.nextInt(); 
          
          int fact=1;
          
