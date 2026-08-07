@@ -3,8 +3,8 @@ package com.AllBasic;
 import java.util.Scanner;
 
 public class Calculater {
- 
-	public static void main(String[] args) {
+
+	public static void main(String[] args) {   
 		// TODO Auto-generated method stub 
 	 	Scanner sc=new Scanner(System.in);
 	 	System.out.println("Enter the first no ");
@@ -12,7 +12,7 @@ public class Calculater {
 		System.out.println("Enter the second no ");
 		int b=sc.nextInt();
         //here we perfrom opr
-		System.out.println("Enter the operator(+,-,*./)");
+		System.out.println("Enter the operator(+,-,*./)"); 
 		char op=sc.next().charAt(0);
 	    int c=0;
 	    switch(op) {case '+':c=a+b;
