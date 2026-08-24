@@ -3,7 +3,7 @@ package com.AllBasic;
 import java.util.Scanner;
 
 public class Calculater {
-   
+    
 	 
 	public static void main(String[] args) {   
 		// TODO Auto-generated method stub 
