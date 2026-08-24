@@ -1,7 +1,7 @@
 package com.arrays;
 
 import java.util.Scanner;
-
+ 
 public class ArrayByScanner {
 
 	public static void main(String[] args) {
