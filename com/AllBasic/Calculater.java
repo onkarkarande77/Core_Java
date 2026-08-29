@@ -1,7 +1,7 @@
 package com.AllBasic;
 
 import java.util.Scanner;
-
+    
 public class Calculater {
     
 	 
