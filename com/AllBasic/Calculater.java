@@ -1,6 +1,6 @@
 package com.AllBasic;
 
-import java.util.Scanner;
+import java.util.Scanner;   
 
 public class Calculater {
    
