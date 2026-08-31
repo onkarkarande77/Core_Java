@@ -6,7 +6,7 @@ public class ArraySort1 {
 		// TODO Auto-generated method stub
 		int ar[]= {3,2,7,9,1};
 		
-		
+		 
 		for(int i=0;i<ar.length;i++) {
 			
 		for(int j=0;j<ar.length;j++) {
