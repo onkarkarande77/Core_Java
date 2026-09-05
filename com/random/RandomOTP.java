@@ -5,7 +5,7 @@ import java.util.RandomAccess;
 
 public class RandomOTP {
  
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		// TODO Auto-generated method stub
 		 Random rd=new Random();
 		 String otp="";
