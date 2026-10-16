@@ -15,7 +15,7 @@ public class ArrayReverse {
         	System.out.print(+ar[i]+",");
         }
         System.out.println("}");
-        
+         
         //now swapping the array  
         for(int i=0,j=ar.length-1;i<j;i++,j--) {
         	int temp=ar[i];
