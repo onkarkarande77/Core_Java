@@ -7,7 +7,7 @@ public class StringBasic {
 	 //length
 	 System.out.println( s.length());
 	 //char index
-	 System.out.println(s.charAt(1));
+	 System.out.println(s.charAt(1)); 
 	 //join to String
 	 System.out.println(s.concat(" karande"));
 	 //equals
