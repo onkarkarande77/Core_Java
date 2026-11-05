@@ -1,14 +1,14 @@
 package com.AllBasic;
 
 public class StdProcess {
-
+ 
 	public StdProcess() {
 		super();
 		// TODO Auto-generated constructor stub
 	}
 	
 	int getTot(StdData sd) {
-		return sd.mrk_chem+sd.mrk_phy;
+		return sd.mrk_chem+sd.mrk_phy; 
 	}
 
 	int getAvg(StdData sd) {
