@@ -4,7 +4,7 @@ public class StdProcess {
  
 	public StdProcess() {
 		super();
-		// TODO Auto-generated constructor stub
+		// TODO Auto-generated constructor stub 
 	}
 	
 	int getTot(StdData sd) {
