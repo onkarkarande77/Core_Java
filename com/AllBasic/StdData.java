@@ -7,7 +7,7 @@ public class StdData {
 	int mrk_chem;
 	
 	public StdData() {
-	  super();
+	  super(); 
 	  
 	}
 
