@@ -3,7 +3,7 @@ package com.string;
 import java.util.Arrays;
 
 public class AnagramChk {
-
+ 
 	public static void main(String[] args) {
  
 		//simple string
