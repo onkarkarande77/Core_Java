@@ -9,7 +9,7 @@ public class AnagramChk {
 		//simple string
 		
 		String str1="silent";
-		String str2="listen";
+		String str2="listen"; 
 		
 	   char []a1=str1.toCharArray();
 	   char []a2=str2.toCharArray();
